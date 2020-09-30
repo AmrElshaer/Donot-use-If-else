@@ -1,0 +1,13 @@
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\bin\Debug\netcoreapp3.1\SwitchCase_Feature.exe
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\bin\Debug\netcoreapp3.1\SwitchCase_Feature.deps.json
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\bin\Debug\netcoreapp3.1\SwitchCase_Feature.runtimeconfig.json
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\bin\Debug\netcoreapp3.1\SwitchCase_Feature.runtimeconfig.dev.json
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\bin\Debug\netcoreapp3.1\SwitchCase_Feature.dll
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\bin\Debug\netcoreapp3.1\SwitchCase_Feature.pdb
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.csprojAssemblyReference.cache
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.csproj.CoreCompileInputs.cache
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.AssemblyInfoInputs.cache
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.AssemblyInfo.cs
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.dll
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.pdb
+C:\Users\ELHODA\source\repos\Donot_use_If_Else\SwitchCase_Feature\obj\Debug\netcoreapp3.1\SwitchCase_Feature.genruntimeconfig.cache
